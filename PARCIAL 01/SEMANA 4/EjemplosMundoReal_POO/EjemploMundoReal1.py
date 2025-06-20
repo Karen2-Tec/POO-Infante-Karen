@@ -28,7 +28,6 @@ class Mascota:
             self._nombre = nuevo_nombre
     
     def agregar_vacuna(self, vacuna):
-        """Método para agregar una vacuna al historial de la mascota"""
         self._vacunas.append(vacuna)
         print(f"Vacuna {vacuna} registrada para {self._nombre}")
     
