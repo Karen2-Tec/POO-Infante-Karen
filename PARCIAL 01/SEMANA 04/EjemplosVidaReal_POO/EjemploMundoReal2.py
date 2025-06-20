@@ -9,7 +9,7 @@ class Libro:
     Clase que representa un libro en la biblioteca.
     
     Atributos:
-        titulo (str): Título del libro
+        título (str): Título del libro
         autor (str): Autor del libro
         isbn (str): Identificador único del libro
         disponible (bool): Indica si el libro está disponible para préstamo
@@ -101,7 +101,7 @@ class Biblioteca:
     
     Atributos:
         libros (dict): Diccionario de libros (clave: ISBN)
-        usuarios (dict): Diccionario de usuarios (clave: ID de usuario)
+        usuarios (dict): Diccionario de usuarios (clave:ID de usuario)
     """
     
     def __init__(self):
