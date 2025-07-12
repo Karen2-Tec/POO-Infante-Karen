@@ -3,7 +3,6 @@ Programa que demuestra constructores y destructores en Python
 usando solo funcionalidades básicas del lenguaje.
 """
 
-
 class CuentaBancaria:
     """
     Clase que representa una cuenta bancaria simple
@@ -118,12 +117,12 @@ class DispositivoIoT:
 def demostracion():
     """Función para demostrar el uso de las clases"""
     print("\n=== DEMOSTRACIÓN CUENTA BANCARIA ===")
-    cuenta1 = CuentaBancaria("Karen Infante", 1000)
-    cuenta1.depositar(500)
-    cuenta1.retirar(200)
+    cuenta1 = CuentaBancaria("Karen Infante", 7000)
+    cuenta1.depositar(5000)
+    cuenta1.retirar(3000)
 
     cuenta2 = CuentaBancaria("Brayan Jimenez")
-    cuenta2.depositar(1000)
+    cuenta2.depositar(3000)
 
     # Los destructores se llamarán al eliminar los objetos
     del cuenta1
