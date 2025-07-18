@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dc7b4c5d-6ac5-4d84-911a-dda02baada85" name="Changes" comment="Tarea semana 04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PARCIAL 01/SEMANA 07/ConstructoresyDestructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/PARCIAL 01/SEMANA 07/ConstructoresyDestructor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752336645963</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Tarea semana 04">
+      <option name="closed" value="true" />
+      <created>1752337538041</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1752337538041</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
