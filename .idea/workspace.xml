@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc7b4c5d-6ac5-4d84-911a-dda02baada85" name="Changes" comment="SEMANA 08">
-      <change afterPath="$PROJECT_DIR$/PARCIAL 02/SEMANA 09/inventario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PARCIAL 02/SEMANA 09/producto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PARCIAL 02/SEMANA 10/Inventario.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +59,7 @@
     "Python.DashBoard.executor": "Run",
     "Python.EjemploMundoReal1 (1).executor": "Run",
     "Python.EjemploMundoReal1.executor": "Debug",
+    "Python.Inventario.executor": "Run",
     "Python.Tecnicasdeprogramacion.executor": "Run",
     "Python.inventario.executor": "Run",
     "Python.main.executor": "Run",
