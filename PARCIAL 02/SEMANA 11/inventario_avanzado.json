@@ -1,0 +1,16 @@
+[
+  {
+    "id": 20211,
+    "nombre": "Laptop",
+    "cantidad": 2,
+    "precio": 998.0,
+    "fecha_actualizacion": "2025-08-31T12:47:42.372518"
+  },
+  {
+    "id": 20212,
+    "nombre": "Telefono",
+    "cantidad": 5,
+    "precio": 425.0,
+    "fecha_actualizacion": "2025-08-31T12:49:36.164503"
+  }
+]
