@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc7b4c5d-6ac5-4d84-911a-dda02baada85" name="Changes" comment="SEMANA 12">
+    <list default="true" id="dc7b4c5d-6ac5-4d84-911a-dda02baada85" name="Changes" comment="SEMANA 13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,8 @@
     "Python.EjemploMundoReal1.executor": "Debug",
     "Python.Inventario.executor": "Run",
     "Python.Tecnicasdeprogramacion.executor": "Run",
+    "Python.agendapersonal.executor": "Run",
+    "Python.aplicacion.executor": "Run",
     "Python.bibliotecadigital.executor": "Run",
     "Python.inventario.executor": "Run",
     "Python.main.executor": "Run",
@@ -281,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756777055102</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="SEMANA 13">
+      <option name="closed" value="true" />
+      <created>1757536167349</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1757536167349</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -291,7 +301,8 @@
     <MESSAGE value="SEMANA 08" />
     <MESSAGE value="SEMANA 11" />
     <MESSAGE value="SEMANA 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 12" />
+    <MESSAGE value="SEMANA 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
