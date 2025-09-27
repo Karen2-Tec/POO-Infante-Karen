@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc7b4c5d-6ac5-4d84-911a-dda02baada85" name="Changes" comment="SEMANA 13">
+    <list default="true" id="dc7b4c5d-6ac5-4d84-911a-dda02baada85" name="Changes" comment="SEMANA 14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "Python.aplicacion.executor": "Run",
     "Python.bibliotecadigital.executor": "Run",
     "Python.inventario.executor": "Run",
+    "Python.listatareas.executor": "Run",
     "Python.main.executor": "Run",
     "Python.producto.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -291,7 +292,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757536167349</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="SEMANA 14">
+      <option name="closed" value="true" />
+      <created>1758507080031</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1758507080031</updated>
+    </task>
+    <task id="LOCAL-00026" summary="SEMANA 14">
+      <option name="closed" value="true" />
+      <created>1758507114929</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1758507114929</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -302,7 +319,8 @@
     <MESSAGE value="SEMANA 11" />
     <MESSAGE value="SEMANA 12" />
     <MESSAGE value="SEMANA 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 13" />
+    <MESSAGE value="SEMANA 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
