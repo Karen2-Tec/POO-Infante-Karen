@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc7b4c5d-6ac5-4d84-911a-dda02baada85" name="Changes" comment="SEMANA 14">
+    <list default="true" id="dc7b4c5d-6ac5-4d84-911a-dda02baada85" name="Changes" comment="SEMANA 15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     "Python.EjemploMundoReal1 (1).executor": "Run",
     "Python.EjemploMundoReal1.executor": "Debug",
     "Python.Inventario.executor": "Run",
+    "Python.ListaTareas.executor": "Run",
     "Python.Tecnicasdeprogramacion.executor": "Run",
     "Python.agendapersonal.executor": "Run",
     "Python.aplicacion.executor": "Run",
@@ -67,6 +68,7 @@
     "Python.listatareas.executor": "Run",
     "Python.main.executor": "Run",
     "Python.producto.executor": "Run",
+    "Python.tarea.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -308,7 +310,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758507114929</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="SEMANA 15">
+      <option name="closed" value="true" />
+      <created>1758982931512</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1758982931512</updated>
+    </task>
+    <task id="LOCAL-00028" summary="SEMANA 15">
+      <option name="closed" value="true" />
+      <created>1758983104050</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1758983104050</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -320,7 +338,8 @@
     <MESSAGE value="SEMANA 12" />
     <MESSAGE value="SEMANA 13" />
     <MESSAGE value="SEMANA 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 14" />
+    <MESSAGE value="SEMANA 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="SEMANA 15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
